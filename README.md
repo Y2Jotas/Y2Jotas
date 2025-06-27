@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados por Y2Jotas"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2Jotas&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados por Y2Jotas"/>
 </p>
 
 <p align="center">
