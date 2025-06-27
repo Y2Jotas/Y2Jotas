@@ -1,2 +1,54 @@
-# super-duper-system
- My personal repository
+<h1 align="center">Hi there 👋, I'm Juan</h1>
+<h2 align="center">I'm a Front-end developer from Argentina</h2>
+
+<p>
+  I also have a bachelor's degree in Computer Science. I'm passionate about technology, user experience, and constantly learning about cybersecurity.
+</p>
+
+<p>
+  I'm currently looking for new opportunities grow as an developer. I'm also interested in frontend development with javascript frameworks.
+</p>
+
+## My Tech Stack
+
+  <h2><strong>Frontend Development</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,styledcomponents" alt="Frontend Technologies"/>
+  </p>
+
+  <h2><strong>Version Control</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
+  </p>
+
+  <h2><strong>Databases</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
+  </p>
+
+  <h2><strong>Development Tools</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Development Tools"/>
+  </p>
+
+  <h2><strong>Operating system</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating system"/>
+  </p>
+
+  <h2><strong>Currently Learning</strong></h2>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python" alt="Currently Learning"/>
+  </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2Jotas&hide_progress=true&langs_count=8&rank_icon=github&theme=dracula&hide=papyrus,hack,shell" alt="Lenguajes más usados por Y2Jotas"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y2Jotas&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil de Y2Jotas"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
