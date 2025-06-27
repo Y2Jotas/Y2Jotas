@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Juan</h1>
-<h2 align="center">I'm a Front-end developer from Argentina</h2>
+<h3 align="center">I'm a Front-end developer from Argentina</h3>
 
 <p>
   I also have a bachelor's degree in Computer Science. I'm passionate about technology, user experience, and constantly learning about cybersecurity.
@@ -11,32 +11,32 @@
 
 ## My Tech Stack
 
-  <h2><strong>Frontend Development</strong></h2>
+  <h3><strong>Frontend Development</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,styledcomponents" alt="Frontend Technologies"/>
   </p>
 
-  <h2><strong>Version Control</strong></h2>
+  <h3><strong>Version Control</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
   </p>
 
-  <h2><strong>Databases</strong></h2>
+  <h3><strong>Databases</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
   </p>
 
-  <h2><strong>Development Tools</strong></h2>
+  <h3><strong>Development Tools</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Development Tools"/>
   </p>
 
-  <h2><strong>Operating system</strong></h2>
+  <h3><strong>Operating system</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating system"/>
   </p>
 
-  <h2><strong>Currently Learning</strong></h2>
+  <h3><strong>Currently Learning</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python" alt="Currently Learning"/>
   </p>
