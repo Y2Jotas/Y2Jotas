@@ -13,7 +13,7 @@
 
   <h3><strong>Frontend Development</strong></h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,styledcomponents" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,styledcomponents" alt="Frontend Technologies"/>
   </p>
 
   <h3><strong>Version Control</strong></h3>
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2Jotas&hide_progress=true&langs_count=8&rank_icon=github&theme=dracula&hide=papyrus,hack,shell" alt="Lenguajes más usados por Y2Jotas"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados por Y2Jotas"/>
 </p>
 
 <p align="center">
