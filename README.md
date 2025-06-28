@@ -16,19 +16,31 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,styledcomponents" alt="Frontend Technologies"/>
   </p>
 
-  <h3><strong>Version Control</strong></h3>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
-  </p>
-
   <h3><strong>Databases</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
   </p>
 
+  <h3><strong>Version Control</strong></h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
+  </p>
+
   <h3><strong>Development Tools</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,figma" alt="Development Tools"/>
+  </p>
+
+  <h3><strong>Data Analyst</strong></h3>
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/excel.png" width="50" alt="Google Sheets"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/looker.png" width="50" alt="Looker Studio logo"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/googlecolab.png" width="50" alt="Google Colab logo"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/python.png" width="50" alt="Python"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/pandas.png" width="50" alt="Pandas"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/numpy.png" width="50" alt="Numpy"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/matplotlib.png" width="50" alt="Matplatlib"/>
+    <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/seaborn.png" width="50" alt="Seaborn"/>
   </p>
 
   <h3><strong>Operating system</strong></h3>
