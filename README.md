@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/Y2Jotas/Y2Jotas/main/img/seaborn.png" width="50" alt="Seaborn"/>
   </p>
 
-  <h3><strong>Operating system</strong></h3>
+  <h3><strong>Operating System</strong></h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating system"/>
   </p>
